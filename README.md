@@ -1,4 +1,4 @@
-# Data_projects_TripleTen
+# TripleTen_Projects
 ## Hey 👋, This is David Sutton
 [![Gmail Badge](https://img.shields.io/badge/-dksutton3@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dksutton3@gmail.com)](mailto:dksutton3@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/davidsutton3-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/davidsutton3/)](https://www.linkedin.com/in/www.linkedin.com/in/davidsutton3/) [![Github Badge](https://img.shields.io/badge/-00Sutts3-grey?style=flat&logo=github&logoColor=white&link=https://github.com/00Sutts3/)](https://www.github.com/00Sutts3/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/00Sutts3/)](https://github.com/00Sutts3/) 
